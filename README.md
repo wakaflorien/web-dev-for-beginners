@@ -91,3 +91,7 @@ To create and work with repositories, follow these steps:
 ---
 
 We hope this documentation will assist you in your learning process. Happy coding!
+
+## License
+
+This project is licensed under the terms of the [MIT license](./License.md).
